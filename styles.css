@@ -148,3 +148,30 @@ body{
     margin-left: 5px;
     margin-top: -2px;  
 }
+
+
+
+
+.banner5{
+    width: 300px;
+    height: 250px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #FECE2F;
+}
+.banner5 .img11{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 50px;
+}
+.banner5 .br5{
+    color: white;
+    font-size: 42pt;
+    line-height: 34pt;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 31px;  
+}
