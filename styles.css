@@ -6,7 +6,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     background-size: cover;
-    background-color: black;
+    background-color: #0C1AE8;
 }
 .banner{
     width: 300px;
@@ -174,4 +174,63 @@ body{
     position: relative;
     margin-left: 5px;
     margin-top: 31px;  
+}
+.banner6{
+    width: 300px;
+    height: 250px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #053C63;
+}
+.banner6 .img12{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 50px;
+}
+.banner6 .img13{
+    position: absolute;
+    top: 218px;
+    left: 1px;
+    width: 45px;
+}
+.banner6 .img14{
+    position: absolute;
+    top: 224px;
+    left: 52px;
+    width: 60px;
+}
+.banner6 .img15{
+    position: absolute;
+    top: 89px;
+    left: 113px;
+    width: 257px;
+}
+.banner6 .br6{
+    color: white;
+    font-size: 32pt;
+    line-height: 27pt;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.banner6 .br7{
+    color: white;
+    font-size: 14pt;
+    line-height: 12pt;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 25px;
+}
+.banner6 .br8{
+    color: white;
+    font-size: 8pt;
+    border: 1px solid white;
+    position: absolute;
+    background: transparent;
+    padding: 5px 10px;
+    top: 160px;
+    left: 20px;
 }
