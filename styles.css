@@ -110,3 +110,41 @@ body{
     margin-left: 5px;
     margin-top: -2px;
 }
+
+
+
+.banner4{
+    width: 300px;
+    height: 250px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #A5DAE3;
+}
+.banner4 .img8{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 50px;
+}
+.banner4 .img9{
+    position: absolute;
+    top: 133px;
+    left: 20px;
+    width: 90px;
+}
+.banner4 .img10{
+    position: absolute;
+    top: 97px;
+    left: 113px;
+    width: 257px;
+}
+.banner4 .br4{
+    color: white;
+    font-size: 30pt;
+    line-height: 26pt;
+    position: relative;
+    margin-left: 5px;
+    margin-top: -2px;  
+}
