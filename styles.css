@@ -234,3 +234,60 @@ body{
     top: 160px;
     left: 20px;
 }
+.banner7{
+    width: 300px;
+    height: 50px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #053C63;
+}
+.banner7 .img16{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+}
+.banner7 .text1{
+    color: white;
+    font-size: 15pt;
+    position: relative;
+    margin-left: 62px;
+    margin-top: -5px;
+}
+.banner8{
+    width: 300px;
+    height: 50px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #053C63; 
+}
+.banner8 .img17{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+}
+.banner8 .img18{
+    position: absolute;
+    top: 25px;
+    left: 169px;
+    width: 40px;
+}
+.banner8 .img19{
+    position: absolute;
+    top: 30px;
+    right: 47px;
+    width: 45px;
+}
+.banner8 .text2{
+    color: white;
+    font-size: 15pt;
+    line-height: 14pt;
+    position: relative;
+    margin-left: 62px;
+    margin-top: -5px;
+}
